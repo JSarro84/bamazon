@@ -1,23 +1,23 @@
 # Bamazon 
 
-### Challenge #1: Customer View (Minimum Requirement)
+# Challenge #1: Customer View (Minimum Requirement)
 
- Here's my bamazon database with table of products.
+ 1. Here's my bamazon database with table of products.
 
-	![bamazon schema before](/images/1MySQL_before.png)
+	![bamazon schema before](bamazon/images/1MySQL_before.png)
 
- Here's my bamazonCustomer.js store working in the terminal.
+ 2. Here's my bamazonCustomer.js store working in the terminal.
 	
-	![bamazonCustomer.js store (working)](/images/2working_store.png)
+	![bamazonCustomer.js store (working)](bamazon/images/2working_store.png)
 
- Here's my bamazonCustomer.js store if the user tries to buy more units than I have in stock.
+ 3. Here's my bamazonCustomer.js store if the user tries to buy more units than I have in stock.
 	
-	![bamazonCustomer.js store (not working)](/images/4Not_enough.png)
+	![bamazonCustomer.js store (not working)](bamazon/images/4Not_enough.png)
 
- Here's my table again, showing the newly updated remaining stock quantity.
+ 4. Here's my table again, showing the newly updated remaining stock quantity.
 
-	![bamazon schema after](/images/3MySQL_after.png)
+	![bamazon schema after](bamazon/images/3MySQL_after.png)
 
- I also screenshot if the user doesn't confirm their order.
+ 5. I also screenshot if the user doesn't confirm their order.
 
-   	![bamazonCustomer.js store (no confirm)](/images/5cancel_store.png)
+   	![bamazonCustomer.js store (no confirm)](bamazon/images/5cancel_store.png)
