@@ -1,0 +1,22 @@
+{
+  "name": "npmls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSarro84/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSarro84/Bamazon/issues"
+  },
+  "homepage": "https://github.com/JSarro84/Bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.13.0"
+  }
+}
